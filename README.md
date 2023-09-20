@@ -7,7 +7,7 @@
 
   
 # Announcements
-* Coming soon
+https://docs.google.com/presentation/d/e/2PACX-1vQZcLLNTKi1cJ_lHCkAUDJTsz4GI3fkH7kLZisGC7vWwEsfM1oSb6DKMdgXKQ11PSfyGI5Gl-nVuW8T/pub?start=false&loop=false&delayms=3000
 
 # Talks
 ## TALK 1 - Exploring Statistical Modelling in Reinsurance by Rithika Adiga

@@ -13,7 +13,7 @@ https://docs.google.com/presentation/d/e/2PACX-1vQZcLLNTKi1cJ_lHCkAUDJTsz4GI3fkH
 ## TALK 1 - Exploring Statistical Modelling in Reinsurance by Rithika Adiga
 Description: (30 mins) This is probably going to a small team from RenRe. We're looking to have a hands-on session on a few different modelling techniques in Python, Numpy that we use in Reinsurance. We'll also have a few women from RenRe who can talk about their experience in the company and domain.
 * Slides: https://github.com/pyladiesdublin/sep-talks-2023/blob/main/Risk%20Modelling.pptx
-* 
+  
 ### About Rithika Adiga
 Quant Engineer at RenRe
 

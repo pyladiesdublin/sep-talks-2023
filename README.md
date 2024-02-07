@@ -32,7 +32,7 @@ Starting as an Oceanographer, Leticia became a Software Engineer, where she has 
 * https://twitter.com/AFriendlyGuide
 
 # Thanks 
-* [Stripe]([url](https://stripe.com/ie/jobs)) for hosting
+* [Stripe](https://stripe.com/ie/jobs) for hosting
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
